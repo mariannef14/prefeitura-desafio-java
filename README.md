@@ -1,3 +1,3 @@
 # Prefeitura-desafio-java
 
-###Para testar a aplicação, basta inserir as informações soliciadas nos endpoints
+### Para testar a aplicaÃ§Ã£o, basta inserir as informaÃ§Ãµes soliciadas nos endpoints atravÃ© do Swagger
