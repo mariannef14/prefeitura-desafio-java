@@ -1,1 +1,3 @@
-# prefeitura-desafio-java
+# Prefeitura-desafio-java
+
+###Para testar a aplicação, basta inserir as informações soliciadas nos endpoints
